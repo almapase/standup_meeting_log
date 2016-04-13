@@ -1,0 +1,7 @@
+Wed, 13 Apr 2016 15:22:30 -0300
+README.rdoc	Sun, 10 Apr 2016 23:45:44 -0300
+app/controllers/application_controller.rb	Sun, 10 Apr 2016 23:45:44 -0300
+app/controllers/entries_controller.rb	Mon, 11 Apr 2016 00:02:57 -0300
+app/helpers/application_helper.rb	Sun, 10 Apr 2016 23:45:44 -0300
+app/helpers/entries_helper.rb	Mon, 11 Apr 2016 00:02:57 -0300
+app/models/entry.rb	Mon, 11 Apr 2016 00:02:57 -0300
